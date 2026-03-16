@@ -1,0 +1,1 @@
+print("Sistema universitário iniciado")
